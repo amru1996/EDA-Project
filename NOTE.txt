@@ -1,0 +1,5 @@
+https://www.rdocumentation.org/packages/utils/versions/3.3.1/topics/install.packages
+https://www.youtube.com/watch?v=6A5EpqqDOdk
+http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
+https://google.github.io/styleguide/Rguide.xml
+http://ggplot2.tidyverse.org/reference/geom_text.html
